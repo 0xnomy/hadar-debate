@@ -1,0 +1,10 @@
+﻿groq
+openai
+python-dotenv
+sentence-transformers
+numpy
+matplotlib
+seaborn
+torch
+pandas
+datasets  # For HalluDial dataset loading (optional)
