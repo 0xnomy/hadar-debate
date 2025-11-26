@@ -128,7 +128,7 @@ groq, python-dotenv, sentence-transformers, numpy, pandas, matplotlib, seaborn, 
 
 ## License
 
-[Your License]
+MIT License - Free for academic and commercial use. See [LICENSE](LICENSE) for details.
 
----
-*Last Updated: November 2025*
+You can use, modify, and distribute this software freely, provided the original license and copyright notice are included.
+
